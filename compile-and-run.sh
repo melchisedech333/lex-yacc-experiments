@@ -6,5 +6,6 @@ mv y.tab.h "$1/y.tab.h"
 lex "$1/code.l"
 mv lex.yy.c "$1/lex.yy.c"
 gcc -o parsing "$1/lex.yy.c" "$1/y.tab.c"
+rm -rf "$1/lex.yy.c" "$1/y.tab.c" "$1/y.tab.h"
 
 
