@@ -29,4 +29,20 @@ Obs: para este exemplo em questão (utilizando o <b>"2 - filtrando tokens"</b>),
 10 20 30 A
 ```
 
+Para esta entrada a saída será:
+
+```
+type: INTEGER
+token: 10
+
+type: INTEGER
+token: 20
+
+type: INTEGER
+token: 30
+
+type: UNKNOWN
+token: A
+```
+
 
