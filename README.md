@@ -1,7 +1,7 @@
 ### :arrow_right: Meus experimentos com parsing
 
 <p align='center'>
-    <img src="extras/Parse_Tree_Derivations.svg" width="500" >
+    <img src="extras/images/Parse_Tree_Derivations.svg" width="500" >
 </p>
 
 <p align="center">
