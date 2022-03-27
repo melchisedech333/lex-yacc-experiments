@@ -1,0 +1,11 @@
+Entradas:
+
+    var a :str  = "Verbum";
+    var a       = "Verbum";
+    var a = 31337;
+    var a:int= 31337;
+    var b = "Verbum";
+    var c = a;
+    var c:int = a;
+
+
