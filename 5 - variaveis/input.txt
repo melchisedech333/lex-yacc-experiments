@@ -1,0 +1,7 @@
+Entradas:
+
+    var a = 31337;
+    var b = "Verbum";
+    var c = a;
+
+
