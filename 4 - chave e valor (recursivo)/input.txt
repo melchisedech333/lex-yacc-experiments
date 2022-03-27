@@ -1,0 +1,27 @@
+Entradas:
+
+    { "name": "value" }
+    { "name": 31337 }
+    { "name1": "value1", "name2": 31337 }
+    { "name": { "name": 333 }, "name2": 444 }
+
+    {
+        "member": {
+            "e" : "Verbum",
+            "a": { 
+                "c": 333, 
+                "name1": { 
+                    "name3": 333
+                }, 
+                "name2": 444
+            },
+            "d" : "Divinus"
+        }, 
+        "b": 444
+    }
+
+
+
+
+
+
