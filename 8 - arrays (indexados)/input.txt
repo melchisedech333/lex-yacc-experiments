@@ -1,0 +1,16 @@
+Entrada:
+
+    var variable :array =  [ 
+
+        333, test, [
+            31337, 123
+        ], "Verbum",
+        1, 2, 3,
+        [
+            "Verbum", "Divinus",
+            1337
+        ]
+
+    ];
+
+
