@@ -1,3 +1,4 @@
+Entrada:
 
     var variable :array =  [ 
 
@@ -11,5 +12,6 @@
         ]
 
     ];
+
 
 
