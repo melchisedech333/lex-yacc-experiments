@@ -23,7 +23,7 @@ Após compilar, basta executar o arquivo gerado com o nome <b>parsing</b>, e dig
 ./parsing
 ```
 
-Obs: para este exemplo em questão (utilizando o <b>"2 - filtrando tokens"</b>), uma entrada válida pode ser:
+Para este exemplo em questão (utilizando o <b>"2 - filtrando tokens"</b>), uma entrada válida pode ser:
 
 ```
 10 20 30 A
@@ -44,5 +44,7 @@ token: 30
 type: UNKNOWN
 token: A
 ```
+
+Importante citar que dentro de cada diretório há um arquivo chamado <b>input.txt</b>, que contêm uma (ou mais) entrada de exemplo possível.
 
 
