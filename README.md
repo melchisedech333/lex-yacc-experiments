@@ -1,5 +1,3 @@
-### :arrow_right: Meus experimentos com parsing
-
 <p align='center'>
     <img src="extras/images/Parse_Tree_Derivations.svg" width="500" >
 </p>
@@ -8,6 +6,8 @@
     <img src="https://img.shields.io/github/languages/count/melchisedech333/lex-yacc-experiments?style=for-the-badge" >
     <img src="https://img.shields.io/github/repo-size/melchisedech333/lex-yacc-experiments?style=for-the-badge" >
 </p>
+
+<br>
 
 Aqui estão meus códigos, estudos e experimentos em geral, que realizei utilizando as ferramentas para análise de gramática livre de contexto. São elas o <b>lex</b>, <b>yacc</b> e <b>bison</b>.
 
