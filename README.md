@@ -59,7 +59,7 @@ type: UNKNOWN
 token: A
 ```
 
-Importante citar que dentro de cada diretório há um arquivo chamado <b>input.txt</b>, que contêm uma (ou mais) entrada de exemplo possível.
+It is important to mention that within each directory there is a file called <b>input.txt</b>, which contain one (or more) possible example entries.
 
 <br>
 
