@@ -68,6 +68,7 @@ It is important to mention that within each directory there is a file called <b>
 :smiley: Author
 ---
 
+Sponsor: [melchisedech333](https://github.com/sponsors/melchisedech333)<br>
 YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)<br>
 Twitter: [Melchisedech333](https://twitter.com/Melchisedech333)<br>
 Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)<br>
