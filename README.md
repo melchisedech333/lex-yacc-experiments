@@ -11,6 +11,20 @@
 
 Aqui estão meus códigos, estudos e experimentos em geral, que realizei utilizando as ferramentas para análise de gramática livre de contexto. São elas o <b>lex</b>, <b>yacc</b> e <b>bison</b>.
 
+<br>
+
+:bookmark_tabs: Table of Contents
+-----
+* [Instructions](#hammer_and_wrench-instructions)
+* [Author](#smiley-author)
+* [License](#scroll-license)
+-----
+
+<br>
+
+:hammer_and_wrench: Instructions
+---
+
 Cada diretório equivale a um teste em específico. E para compilar o mesmo, basta executar o arquivo <b>compile-and-run.sh</b> passando o nome do diretório como parâmetro.
 
 ```bash
@@ -46,5 +60,24 @@ token: A
 ```
 
 Importante citar que dentro de cada diretório há um arquivo chamado <b>input.txt</b>, que contêm uma (ou mais) entrada de exemplo possível.
+
+<br>
+
+:smiley: Author
+---
+
+YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)<br>
+Twitter: [Melchisedech333](https://twitter.com/Melchisedech333)<br>
+Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)<br>
+LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152235/)
+
+<img src="https://github.com/melchisedech333.png?size=200" height="100" />
+
+<br>
+
+:scroll: License
+---
+
+[ BSD-3-Clause license](./LICENSE.txt)
 
 
