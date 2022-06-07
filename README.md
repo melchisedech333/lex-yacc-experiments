@@ -25,25 +25,25 @@ Here are my codes, studies and experiments in general, which I performed using t
 :hammer_and_wrench: Instructions
 ---
 
-Cada diretório equivale a um teste em específico. E para compilar execute o arquivo <b>compile-and-run.sh</b> passando o nome do diretório como parâmetro.
+Each directory is equivalent to a specific test. And to compile run the file <b>compile-and-run.sh</b> passing the directory name as a parameter.
 
 ```bash
-./compile-and-run.sh "2 - filtrando tokens"
+./compile-and-run.sh "2 - filter tokens"
 ```
 
-Após compilar, basta executar o arquivo gerado com o nome <b>parsing</b>, e digitar a entrada.
+After compiling, just run the generated file with the name <b>parsing</b>, and type the input.
 
 ```bash
 ./parsing
 ```
 
-Para este exemplo em questão (utilizando o <b>"2 - filtrando tokens"</b>), uma entrada válida pode ser:
+For this example in question (using the <b>2 - filter tokens</b>), a valid input could be:
 
 ```
 10 20 30 A
 ```
 
-Para esta entrada a saída será:
+For this input, the output will be:
 
 ```
 type: INTEGER
