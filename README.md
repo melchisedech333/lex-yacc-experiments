@@ -9,7 +9,7 @@
 
 <br>
 
-Aqui estão meus códigos, estudos e experimentos em geral, que realizei utilizando as ferramentas para análise de gramática livre de contexto. São elas o <b>lex</b>, <b>yacc</b> e <b>bison</b>.
+Here are my codes, studies and experiments in general, which I performed using the tools for context-free grammar analysis. They are <b>lex</b>, <b>yacc</b> and <b>bison</b>.
 
 <br>
 
@@ -25,7 +25,7 @@ Aqui estão meus códigos, estudos e experimentos em geral, que realizei utiliza
 :hammer_and_wrench: Instructions
 ---
 
-Cada diretório equivale a um teste em específico. E para compilar o mesmo, basta executar o arquivo <b>compile-and-run.sh</b> passando o nome do diretório como parâmetro.
+Cada diretório equivale a um teste em específico. E para compilar execute o arquivo <b>compile-and-run.sh</b> passando o nome do diretório como parâmetro.
 
 ```bash
 ./compile-and-run.sh "2 - filtrando tokens"
