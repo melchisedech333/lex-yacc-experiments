@@ -11,7 +11,7 @@
 
 Language: <a href="readme.md">EN-US</a>
 
-Aqui estão meus códigos, estudos e experimentos em geral, que realizei usando as ferramentas para análise de gramática livre de contexto. As ferramentas que utilizei são <b>lex</b>, <b>yacc</b> e <b>bison</b>.
+Aqui estão meus códigos, estudos e experimentos em geral, que realizei usando as ferramentas para análise de gramática livre de contexto, sendo elas <b>lex</b>, <b>yacc</b> e <b>bison</b>.
 
 **Se algum código foi útil para você, considere [ser um patrocinador](https://github.com/sponsors/melchisedech333) :blue_heart:** 
 
@@ -29,25 +29,25 @@ Aqui estão meus códigos, estudos e experimentos em geral, que realizei usando 
 :hammer_and_wrench: Instruções
 ---
 
-Each directory is equivalent to a specific test. And to compile run the file <b>compile-and-run.sh</b> passing the directory name as a parameter.
+Cada diretório é equivalente a um teste específico. E para compilar execute o arquivo <b>compile-and-run.sh</b> passando o nome do diretório como parâmetro.
 
 ```bash
 ./compile-and-run.sh "2 - filter tokens"
 ```
 
-After compiling, just run the generated file with the name <b>parsing</b>, and type the input.
+Após a compilação, basta executar o arquivo gerado com o nome <b>parsing</b> e digitar o input.
 
 ```bash
 ./parsing
 ```
 
-For this example in question (using the <b>2 - filter tokens</b>), a valid input could be:
+Para este exemplo em questão (usando o <b>2 - filter tokens</b>), uma entrada válida pode ser:
 
 ```
 10 20 30 A
 ```
 
-For this input, the output will be:
+Para esta entrada, a saída será:
 
 ```
 type: INTEGER
@@ -63,7 +63,7 @@ type: UNKNOWN
 token: A
 ```
 
-It is important to mention that within each directory there is a file called <b>input.txt</b>, which contain one (or more) possible example entries.
+É importante mencionar que dentro de cada diretório existe um arquivo chamado <b>input.txt</b>, que contém uma (ou mais) entradas de exemplo possíveis.
 
 <br>
 
