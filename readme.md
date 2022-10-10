@@ -9,6 +9,8 @@
 
 <br>
 
+Language: <a href="readme-pt.md">PT-BR</a>
+
 Here are my codes, studies and experiments in general, which I performed using the tools for context-free grammar analysis. They are <b>lex</b>, <b>yacc</b> and <b>bison</b>.
 
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:** 
@@ -81,6 +83,6 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 :scroll: License
 ---
 
-[ BSD-3-Clause license](./LICENSE.txt)
+[ BSD-3-Clause license](./license)
 
 
