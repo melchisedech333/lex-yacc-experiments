@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="extras/images/Parse_Tree_Derivations.svg" width="500" >
+    <img src="extras/images/banner.jpg" style="border-radius:10px" >
 </p>
 
 <p align="center">
