@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/languages/top/melchisedech333/lex-yacc-experiments?color=%23f34b7d" >
     <img src="https://img.shields.io/github/directory-file-count/melchisedech333/lex-yacc-experiments?label=arquivos" >
     <img src="https://img.shields.io/github/repo-size/melchisedech333/lex-yacc-experiments?label=tamanho repo" >
-    <img src="https://img.shields.io/github/license/melchisedech333/lex-yacc-experiments?label=licença" >
+    <img src="https://img.shields.io/github/license/melchisedech333/lex-yacc-experiments?label=licenca" >
 </p>
 
 <br>
