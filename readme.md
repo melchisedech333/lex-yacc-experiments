@@ -1,5 +1,7 @@
 <p align='center'>
-    <img src="extras/images/banner.jpg" style="border-radius:10px" >
+<kbd>
+<img src="extras/images/banner.jpg" >
+</kbd>
 </p>
 
 <p align="center">
