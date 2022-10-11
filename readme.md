@@ -1,7 +1,5 @@
 <p align='center'>
-<kbd>
-<img src="extras/images/banner.jpg" >
-</kbd>
+    <img src="extras/images/banner.jpg" >
 </p>
 
 <p align="center">
