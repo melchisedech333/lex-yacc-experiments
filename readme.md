@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-    <img src="https://badgen.net/badge/love level/3/purple" >
     <img src="https://img.shields.io/github/languages/count/melchisedech333/lex-yacc-experiments?color=%23f34b7d" >
     <img src="https://img.shields.io/github/languages/top/melchisedech333/lex-yacc-experiments?color=%23f34b7d" >
     <img src="https://img.shields.io/github/repo-size/melchisedech333/lex-yacc-experiments" >
